@@ -30,7 +30,7 @@ python3.6 -m venv ./env
 ```
 Install dependencies
 ```
-pip install -r ./requirements.pip
+pip install -r ./requirements.txt
 ```
 Run script
 ```
@@ -45,7 +45,7 @@ source ./env/py/bin/activate
 ```
 Install dependencies
 ```
-pip install -r ./requirements.pip
+pip install -r ./requirements.txt
 ```
 Run script
 ```
